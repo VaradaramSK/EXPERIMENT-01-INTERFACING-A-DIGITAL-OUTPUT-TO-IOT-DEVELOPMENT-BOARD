@@ -1,12 +1,12 @@
 # EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD
 
-**DATE:**
+**DATE:** 27-07-2026
 
-**NAME:**
+**NAME:** Varadaram Sk
 
-**ROLL NO:**
+**ROLL NO:** 212223040232
 
-**DEPARTMENT:**
+**DEPARTMENT:** Computer Science and Engineering
 
 ## Aim
 
